@@ -1,10 +1,10 @@
-### Hi there, I'm [Cofess!](https://blog.cofess.com/) 👋
+### Hi there, I'm [yangweixing!](http://yangweixing.top/) 👋
 Hi, I'm Cofess, a passionate self-taught frontEnd web developer from China.
 <br />
 
 - 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning Vue & Python
-- 💬 Ask me about anything [here](https://github.com/cofess/cofess/issues)
+- 🌱 I’m currently learning Java & Python
+- 💬 Ask me about anything [here](https://github.com/yweixing/yweixing/issues)
 - ⚡ Fun fact: I :heart: :dog:s
 
 ### My Tech Stack
@@ -12,7 +12,7 @@ Hi, I'm Cofess, a passionate self-taught frontEnd web developer from China.
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Apache](http://img.shields.io/badge/-Apache-E11E27?style=flat-square&logo=apache)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-![PHP](http://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-Java-8892BF?style=flat-square&logo=php&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
 ![WordPress](http://img.shields.io/badge/-WordPress-0073AA?style=flat-square&logo=wordpress&logoColor=ffffff)
 ![OpenCart](http://img.shields.io/badge/-OpenCart-0080C3?style=flat-square&logo=opencart&logoColor=ffffff)
