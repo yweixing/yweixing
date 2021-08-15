@@ -1,5 +1,5 @@
-### Hi there, I'm [yangweixing!](http://yangweixing.top/) 👋
-Hi, I'm Cofess, a passionate self-taught frontEnd web developer from China.
+### Hi there, I'm [yweixing!](http://yangweixing.top/) 👋
+Hi, I'm yweixing, a passionate self-taught frontEnd developer from China.
 <br />
 
 - 🔭 I’m currently working on my personal project
